@@ -13,8 +13,6 @@ var statusGame = true;
 var timer;
 var blocks;
 // каррта
-
-
 var map = [
 	[, , , , , , , , , , ],
 	[, , , , , , , , , , ],
